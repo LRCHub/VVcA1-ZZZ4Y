@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ナウなヤングにバカウケするのは当たり前だのクラッ歌",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-02-23T08:34:58.441932Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナウなヤングにバカウケするのは当たり前だのクラッ歌",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_ナウなヤングにバカウケするのは当たり前だのクラッ歌_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナウなヤングにバカウケするのは当たり前だのクラッ歌",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/02_ナウなヤングにバカウケするのは当たり前だのクラッ歌_あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナウなヤングにバカウケするのは当たり前だのクラッ歌",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/03_ナウなヤングにバカウケするのは当たり前だのクラッ歌_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナウなヤングにバカウケするのは当たり前だのクラッ歌",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_ナウなヤングにバカウケするのは当たり前だのクラッ歌_あいみょん.txt"
+    }
+  ]
+}
